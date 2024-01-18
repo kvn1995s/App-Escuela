@@ -1,0 +1,168 @@
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_GUI.exe
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_GUI.dll.config
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_GUI.deps.json
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_GUI.runtimeconfig.json
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_GUI.dll
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_GUI.pdb
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_ADO.dll
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_BE.dll
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_BL.dll
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_BE.pdb
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_BL.pdb
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_ADO.pdb
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.csproj.AssemblyReference.cache
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.Form1.resources
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.csproj.GenerateResource.cache
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.AssemblyInfoInputs.cache
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.AssemblyInfo.cs
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.csproj.CoreCompileInputs.cache
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.csproj.CopyComplete
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.dll
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\refint\Proyecto_GUI.dll
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.pdb
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.genruntimeconfig.cache
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ref\Proyecto_GUI.dll
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.Servicio01.resources
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.Seccion02.resources
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.Seccion03.resources
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ProyMatricula_GUI.MDIPrincipal.resources
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ProyMatricula_GUI.ApoderadoMan01.resources
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ProyVentas_GUI.AlumnoMan01.resources
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ProyVentas_GUI.AlumnosMan02.resources
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ProyVentas_GUI.AlumnosMan03.resources
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ProyMatricula_GUI.ApoderadoMan02.resources
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ProyMatricula_GUI.ApoderadoMan03.resources
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_GUI.exe
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_GUI.dll.config
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_GUI.deps.json
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_GUI.runtimeconfig.json
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_GUI.dll
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_GUI.pdb
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_ADO.dll
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_BE.dll
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_BL.dll
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_BE.pdb
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_BL.pdb
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_ADO.pdb
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.csproj.AssemblyReference.cache
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ProyVentas_GUI.AlumnoMan01.resources
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ProyVentas_GUI.AlumnosMan02.resources
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ProyVentas_GUI.AlumnosMan03.resources
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ProyMatricula_GUI.ApoderadoMan01.resources
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ProyMatricula_GUI.ApoderadoMan02.resources
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ProyMatricula_GUI.ApoderadoMan03.resources
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.Form1.resources
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ProyMatricula_GUI.MDIPrincipal.resources
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.Servicio01.resources
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.Seccion02.resources
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.Seccion03.resources
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.csproj.GenerateResource.cache
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.AssemblyInfoInputs.cache
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.AssemblyInfo.cs
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.csproj.CopyComplete
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.dll
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\refint\Proyecto_GUI.dll
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.pdb
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.genruntimeconfig.cache
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ref\Proyecto_GUI.dll
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_GUI.exe
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_GUI.dll.config
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_GUI.deps.json
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_GUI.runtimeconfig.json
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_GUI.dll
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_GUI.pdb
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_ADO.dll
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_BE.dll
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_BL.dll
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_BE.pdb
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_BL.pdb
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_ADO.pdb
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.csproj.AssemblyReference.cache
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ProyVentas_GUI.AlumnoMan01.resources
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ProyVentas_GUI.AlumnosMan02.resources
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ProyVentas_GUI.AlumnosMan03.resources
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ProyMatricula_GUI.ApoderadoMan01.resources
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ProyMatricula_GUI.ApoderadoMan02.resources
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ProyMatricula_GUI.ApoderadoMan03.resources
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.Form1.resources
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ProyMatricula_GUI.MDIPrincipal.resources
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.Servicio01.resources
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.Seccion02.resources
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.Seccion03.resources
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.csproj.GenerateResource.cache
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.AssemblyInfoInputs.cache
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.AssemblyInfo.cs
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.csproj.CopyComplete
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.dll
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\refint\Proyecto_GUI.dll
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.pdb
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.genruntimeconfig.cache
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ref\Proyecto_GUI.dll
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_GUI.exe
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_GUI.dll.config
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_GUI.deps.json
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_GUI.runtimeconfig.json
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_GUI.dll
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_GUI.pdb
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_ADO.dll
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_BE.dll
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_BL.dll
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_BE.pdb
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_BL.pdb
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\bin\Debug\net6.0-windows\Proyecto_ADO.pdb
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ProyVentas_GUI.AlumnoMan01.resources
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ProyVentas_GUI.AlumnosMan02.resources
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ProyVentas_GUI.AlumnosMan03.resources
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ProyMatricula_GUI.ApoderadoMan01.resources
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ProyMatricula_GUI.ApoderadoMan02.resources
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ProyMatricula_GUI.ApoderadoMan03.resources
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.Form1.resources
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ProyMatricula_GUI.MDIPrincipal.resources
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.Servicio01.resources
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.Seccion02.resources
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.Seccion03.resources
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.AssemblyInfo.cs
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.csproj.CopyComplete
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.dll
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\refint\Proyecto_GUI.dll
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.pdb
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\Proyecto_GUI.genruntimeconfig.cache
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_GUI\obj\Debug\net6.0-windows\ref\Proyecto_GUI.dll

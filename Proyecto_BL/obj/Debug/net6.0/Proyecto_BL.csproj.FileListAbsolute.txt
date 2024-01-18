@@ -1,0 +1,68 @@
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_BL\bin\Debug\net6.0\Proyecto_BL.deps.json
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_BL\bin\Debug\net6.0\Proyecto_BL.dll
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_BL\bin\Debug\net6.0\Proyecto_BL.pdb
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_BL\bin\Debug\net6.0\Proyecto_ADO.dll
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_BL\bin\Debug\net6.0\Proyecto_BE.dll
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_BL\bin\Debug\net6.0\Proyecto_ADO.pdb
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_BL\bin\Debug\net6.0\Proyecto_BE.pdb
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.csproj.AssemblyReference.cache
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.AssemblyInfoInputs.cache
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.AssemblyInfo.cs
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.csproj.CoreCompileInputs.cache
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.csproj.CopyComplete
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.dll
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\refint\Proyecto_BL.dll
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.pdb
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\ref\Proyecto_BL.dll
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_BL\bin\Debug\net6.0\Proyecto_BL.deps.json
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_BL\bin\Debug\net6.0\Proyecto_BL.dll
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_BL\bin\Debug\net6.0\Proyecto_BL.pdb
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_BL\bin\Debug\net6.0\Proyecto_ADO.dll
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_BL\bin\Debug\net6.0\Proyecto_BE.dll
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_BL\bin\Debug\net6.0\Proyecto_ADO.pdb
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_BL\bin\Debug\net6.0\Proyecto_BE.pdb
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.csproj.AssemblyReference.cache
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.AssemblyInfoInputs.cache
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.AssemblyInfo.cs
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.csproj.CopyComplete
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.dll
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\refint\Proyecto_BL.dll
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.pdb
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\ref\Proyecto_BL.dll
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_BL\bin\Debug\net6.0\Proyecto_BL.deps.json
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_BL\bin\Debug\net6.0\Proyecto_BL.dll
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_BL\bin\Debug\net6.0\Proyecto_BL.pdb
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_BL\bin\Debug\net6.0\Proyecto_ADO.dll
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_BL\bin\Debug\net6.0\Proyecto_BE.dll
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_BL\bin\Debug\net6.0\Proyecto_ADO.pdb
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_BL\bin\Debug\net6.0\Proyecto_BE.pdb
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.csproj.AssemblyReference.cache
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.AssemblyInfoInputs.cache
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.AssemblyInfo.cs
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.csproj.CopyComplete
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.dll
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\refint\Proyecto_BL.dll
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.pdb
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\ref\Proyecto_BL.dll
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_BL\bin\Debug\net6.0\Proyecto_BL.deps.json
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_BL\bin\Debug\net6.0\Proyecto_BL.dll
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_BL\bin\Debug\net6.0\Proyecto_BL.pdb
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_BL\bin\Debug\net6.0\Proyecto_ADO.dll
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_BL\bin\Debug\net6.0\Proyecto_BE.dll
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_BL\bin\Debug\net6.0\Proyecto_ADO.pdb
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_BL\bin\Debug\net6.0\Proyecto_BE.pdb
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.AssemblyInfo.cs
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.csproj.CopyComplete
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.dll
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\refint\Proyecto_BL.dll
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\Proyecto_BL.pdb
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_BL\obj\Debug\net6.0\ref\Proyecto_BL.dll

@@ -1,0 +1,48 @@
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_BE\bin\Debug\net6.0\Proyecto_BE.deps.json
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_BE\bin\Debug\net6.0\Proyecto_BE.dll
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_BE\bin\Debug\net6.0\Proyecto_BE.pdb
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\Proyecto_BE.csproj.AssemblyReference.cache
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\Proyecto_BE.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\Proyecto_BE.AssemblyInfoInputs.cache
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\Proyecto_BE.AssemblyInfo.cs
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\Proyecto_BE.csproj.CoreCompileInputs.cache
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\Proyecto_BE.dll
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\refint\Proyecto_BE.dll
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\Proyecto_BE.pdb
+D:\ISIL\Aplicaciones_I\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\ref\Proyecto_BE.dll
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_BE\bin\Debug\net6.0\Proyecto_BE.deps.json
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_BE\bin\Debug\net6.0\Proyecto_BE.dll
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_BE\bin\Debug\net6.0\Proyecto_BE.pdb
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\Proyecto_BE.csproj.AssemblyReference.cache
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\Proyecto_BE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\Proyecto_BE.AssemblyInfoInputs.cache
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\Proyecto_BE.AssemblyInfo.cs
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\Proyecto_BE.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\Proyecto_BE.dll
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\refint\Proyecto_BE.dll
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\Proyecto_BE.pdb
+C:\Users\Equipo\Desktop\EParcial_ParedesCollantes\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\ref\Proyecto_BE.dll
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_BE\bin\Debug\net6.0\Proyecto_BE.deps.json
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_BE\bin\Debug\net6.0\Proyecto_BE.dll
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_BE\bin\Debug\net6.0\Proyecto_BE.pdb
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\Proyecto_BE.csproj.AssemblyReference.cache
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\Proyecto_BE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\Proyecto_BE.AssemblyInfoInputs.cache
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\Proyecto_BE.AssemblyInfo.cs
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\Proyecto_BE.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\Proyecto_BE.dll
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\refint\Proyecto_BE.dll
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\Proyecto_BE.pdb
+C:\Users\Equipo\Desktop\Isil Cursos\ciclo_04\DesarroloDeApps1\ProyectoDApps\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\ref\Proyecto_BE.dll
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_BE\bin\Debug\net6.0\Proyecto_BE.deps.json
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_BE\bin\Debug\net6.0\Proyecto_BE.dll
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_BE\bin\Debug\net6.0\Proyecto_BE.pdb
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\Proyecto_BE.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\Proyecto_BE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\Proyecto_BE.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\Proyecto_BE.AssemblyInfo.cs
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\Proyecto_BE.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\Proyecto_BE.dll
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\refint\Proyecto_BE.dll
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\Proyecto_BE.pdb
+C:\Users\kevin\Desktop\DESA API 1\PROYECTO\Proyecto\Proyecto_BE\obj\Debug\net6.0\ref\Proyecto_BE.dll
